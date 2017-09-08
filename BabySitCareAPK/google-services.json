@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "734903553497",
+    "firebase_url": "https://babysit-care.firebaseio.com",
+    "project_id": "babysit-care",
+    "storage_bucket": "babysit-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734903553497:android:30b99d9102a90d2e",
+        "android_client_info": {
+          "package_name": "com.example.yogev.babysitcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734903553497-vf9jgiehivkhkfvaq499aquocgeibc9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0dbwch_Jht7UTga9rP4JWCSgbPOQ9_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
